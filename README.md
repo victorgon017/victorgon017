@@ -1,4 +1,4 @@
-## Olá, eu sou Victor Gonçalves
+## Olá, eu sou o Victor!
 🎓 Estudante de Desenvolvimento de Sistemas pela Etec. <br>
 📖 Atualmente eu estou estudando python. <br>
 <!--
