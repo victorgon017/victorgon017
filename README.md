@@ -8,7 +8,7 @@ Estou concluindo o ensino médio e me preparando para seguir na área de Ciênci
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <br>
 ## Contato
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](victorvicgon17@icloud.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:victorvicgon17@icloud.com)
 
 <!--
 **victorgon017/victorgon017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
