@@ -1,6 +1,6 @@
 ## Olá, eu sou o Victor!
 🎓 Estudante de Desenvolvimento de Sistemas. <br>
-📖 Atualmente eu estou estudando python. <br>
+📖 Atualmente eu estou estudando python e HTML. <br>
 🌱 Sempre aprendendo algo novo! <br>
 ## Sobre mim
 Sou estudante de Desenvolvimento de Sistemas pela Etec. <br>
@@ -8,6 +8,7 @@ Estou concluindo o ensino médio e me preparando para seguir na área de Ciênci
 ## Tecnologias que estou estudando
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ## Contato
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=icloud&logoColor=white)](mailto:victorvicgon17@icloud.com)
 
